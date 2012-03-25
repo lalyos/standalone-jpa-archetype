@@ -23,9 +23,9 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git@github.com:lalyos/standalone-jpa-archetype.git</connection>
+		<connection>scm:git:git://github.com/lalyos/standalone-jpa-archetype.git</connection>
 		<developerConnection>scm:git:git@github.com:lalyos/standalone-jpa-archetype.git</developerConnection>
-		<url>git@github.com:lalyos/standalone-jpa-archetype.git</url>
+		<url>https://github.com/lalyos/standalone-jpa-archetype</url>
 	</scm>
 	<issueManagement>
 		<system>Github</system>
