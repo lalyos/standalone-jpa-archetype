@@ -9,7 +9,7 @@
 
   <groupId>com.github.lalyos</groupId>
   <artifactId>standalone-jpa-eclipselink-archetype</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
+  <version>0.0.2</version>
   <packaging>maven-archetype</packaging>
   <name>StandAlone (j2se) jpa project with eclipseLink implementations using embedded DerbiDB</name>
   <description>StandAlone (j2se) jpa project with eclipseLink implementations using embedded DerbiDB</description>
